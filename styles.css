@@ -68,6 +68,11 @@ main {
     text-align: center;
 }
 
+#promo-video {
+    display: flex;
+    justify-content: center;
+}
+
 #figure1 {
     grid-column: 2/3;
 }
